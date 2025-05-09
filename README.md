@@ -26,5 +26,5 @@ This is a Spring Boot REST API for managing **categories** and **products**. It 
 - Spring Data JPA (Hibernate)
 - MySQL
 - Maven
-- 
+
 ---
